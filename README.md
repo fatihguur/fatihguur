@@ -4,6 +4,8 @@
   
 
 ### <div align="center">I'm Fatih, a full-time Game & Blockchain Developer</div>  
+
+<p align="left"> <a href="https://twitter.com/0xLesanders" target="blank"><img src="https://img.shields.io/twitter/follow/0xsergen?logo=twitter&style=for-the-badge" alt="0xLesanders" /></a> </p>
   
 
 - 🔭 I’m currently working on freelance projects.  
