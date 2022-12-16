@@ -17,8 +17,6 @@
 - ❓ Ask me about anything related to Unity , Javascript and Blockchain.  
   
 
-
-
 <br/>  
 
 
@@ -28,6 +26,9 @@
 <a href="https://www.linkedin.com/in/fatihguur/"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="Fatih Gur | Linkedin" height="30" width="30"/></a>
 <a href="https://instagram.com/fatihguur" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="fatihguur" height="30" width="30" /></a>
 
+  
+  
+  
 </p>
 
 
