@@ -33,7 +33,7 @@
 
 ### Languages and Tools  
 <div align="center">  
-<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/61319844/156958898-1f821b0d-21a8-444c-bc01-3cc3f49a44e8.png" alt="Unity" height="50" /></a>  
+<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png" alt="Unity" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
