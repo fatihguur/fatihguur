@@ -23,8 +23,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/0xLesanders" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xLesanders" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/fatihguur/"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="Fatih Gur | Linkedin" height="30" width="30"/></a>
 <a href="https://instagram.com/fatihguur" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="fatihguur" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/fatihguur/"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="Fatih Gur | Linkedin"  height="30" width="30"/></a>
+
 </p>
 
 
