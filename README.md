@@ -3,7 +3,8 @@
 </div>  
   
 
-### <div align="center">I'm Fatih, a full-time Game & Blockchain Developer</div>  
+<h1 align="center">Hi 👋, I'm Fatih</h1>
+<h3 align="center">A Game & Blockchain Developer</h3> 
 
 <p align="left"> <a href="https://twitter.com/0xLesanders" target="blank"><img src="https://img.shields.io/twitter/follow/0xLesanders?logo=twitter&style=for-the-badge" alt="0xLesanders" /></a> </p>
   
